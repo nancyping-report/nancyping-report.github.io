@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+Journalism Graduate <a href="https://camd.northeastern.edu/" target="_blank">@Northeastern University</a> 
+Research Member <a href="http://sites.bu.edu/aiem/people/" target="_blank">@Boston Univeristy AIEM group</a> 
+Former Reporter <a href="https://thescopeboston.org/" target="_blank">@theScopeBoston</a> 
+Author <a href="https://thescopeboston.org/" target="_blank">@Storybench</a> 
 </p>
-
-Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
 <iframe src="https://drive.google.com/open?id=18xHF4SRS3pEAnxkowZhucR2UFtVALNuD" width="100%" height="900"></iframe>
